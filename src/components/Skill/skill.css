@@ -1,0 +1,21 @@
+.skill h2 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.skill h2 span {
+    color: #00cf5d;
+}
+.progress{
+    background-color: #111a28;
+    height: 230px;
+    color: #00cf5d;
+    text-transform: uppercase;
+}
+.progress-middle{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+}
