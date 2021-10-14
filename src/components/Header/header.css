@@ -1,0 +1,24 @@
+.header{
+    background-color: #1d293a;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-name{
+    font-size: 30px;
+    color: #f0f8ff;
+    font-weight: 600;
+}
+.header a{
+    margin: 15px 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: hsla(0,0%,100%,.85);
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 8px 15px;
+}
+.selected{
+    background-color: #00cf5d;
+}
